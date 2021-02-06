@@ -1,0 +1,24 @@
+{
+  "name": "nodejs-streamers",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nadermedhet148/Nodejs-Streamers.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nadermedhet148/Nodejs-Streamers/issues"
+  },
+  "homepage": "https://github.com/nadermedhet148/Nodejs-Streamers#readme",
+  "dependencies": {
+    "@types/node": "^14.14.25",
+    "ts-node-dev": "^1.1.1",
+    "typescript": "^4.1.3"
+  }
+}
