@@ -5,3 +5,4 @@ Different examples on NodeJs streams :
 - FileWriter
 - CopyFile
 - ZlibPipeline
+- WiteToDatabase
